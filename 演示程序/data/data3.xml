@@ -1,0 +1,1963 @@
+<?xml version="1.0" encoding="utf-8" standalone="no" ?>
+<data>
+    <config>
+        <bgColor>0x555555</bgColor>
+        <isShowAnimation>0</isShowAnimation>
+    </config>
+    <infoList>
+        <barColorList>
+            <color>0xFF0000,0x00FF00,0x0000FF,0xFFFF00,0x00FFFF,0xFFFF00</color>
+            <text>0,30,60,90,120,140,150</text>
+        </barColorList>
+        <countryList> <!--国家的列表-->
+            <country id="C001" canClick="1">
+                <color>0x9EC7B6</color>
+                <infos>
+                    <ul>1.aMhw</ul>
+                    <ul>2.38Qz5</ul>
+                    <ul>3.GN7iCJ</ul>
+                    <ul>4.KPXMxAc</ul>
+                </infos>
+            </country>
+            <country id="C002" canClick="1">
+                <color>0x2028D0</color>
+                <infos>
+                    <ul>1.HwwG</ul>
+                    <ul>2.Kxf6y</ul>
+                    <ul>3.Zkywyn</ul>
+                    <ul>4.CMxf4Ra</ul>
+                </infos>
+            </country>
+            <country id="C003" canClick="0">
+                <color>0x51EA5B</color>
+                <infos>
+                    <ul>1.Dhpc</ul>
+                    <ul>2.hjmkk</ul>
+                    <ul>3.NdsArs</ul>
+                    <ul>4.CwBrMFN</ul>
+                </infos>
+            </country>
+            <country id="C004" canClick="0">
+                <color>0x136403</color>
+                <infos>
+                    <ul>1.EC4x</ul>
+                    <ul>2.skiEe</ul>
+                    <ul>3.kWE46S</ul>
+                    <ul>4.PAfw24A</ul>
+                </infos>
+            </country>
+            <country id="C005" canClick="1">
+                <color>0x9BB26D</color>
+                <infos>
+                    <ul>1.NWC5</ul>
+                    <ul>2.ssafR</ul>
+                    <ul>3.XhS8eA</ul>
+                    <ul>4.tKwjFEw</ul>
+                </infos>
+            </country>
+            <country id="C006" canClick="1">
+                <color>0xDDC638</color>
+                <infos>
+                    <ul>1.MKNx</ul>
+                    <ul>2.RpP2m</ul>
+                    <ul>3.Hnp6tf</ul>
+                    <ul>4.yRN4Ypt</ul>
+                </infos>
+            </country>
+            <country id="C007" canClick="1">
+                <color>0x7E58C7</color>
+                <infos>
+                    <ul>1.wBw2</ul>
+                    <ul>2.zmExJ</ul>
+                    <ul>3.sRBWiY</ul>
+                    <ul>4.iQBsbQP</ul>
+                </infos>
+            </country>
+            <country id="C008" canClick="0">
+                <color>0x5EB828</color>
+                <infos>
+                    <ul>1.adPn</ul>
+                    <ul>2.mbJ5W</ul>
+                    <ul>3.NsiNfE</ul>
+                    <ul>4.bs76wHW</ul>
+                </infos>
+            </country>
+            <country id="C009" canClick="0">
+                <color>0xE354D9</color>
+                <infos>
+                    <ul>1.REk7</ul>
+                    <ul>2.5XGFX</ul>
+                    <ul>3.D4aQNn</ul>
+                    <ul>4.eAhANKX</ul>
+                </infos>
+            </country>
+            <country id="C010" canClick="0">
+                <color>0x1A6F6</color>
+                <infos>
+                    <ul>1.XDzy</ul>
+                    <ul>2.sP4yB</ul>
+                    <ul>3.damiAG</ul>
+                    <ul>4.7b4hMBR</ul>
+                </infos>
+            </country>
+            <country id="C011" canClick="0">
+                <color>0xF379CE</color>
+                <infos>
+                    <ul>1.8Z7r</ul>
+                    <ul>2.M66hi</ul>
+                    <ul>3.4RCRBK</ul>
+                    <ul>4.QRMEBpK</ul>
+                </infos>
+            </country>
+            <country id="C012" canClick="1">
+                <color>0xF4C522</color>
+                <infos>
+                    <ul>1.dhX2</ul>
+                    <ul>2.kaQNN</ul>
+                    <ul>3.iEMrMi</ul>
+                    <ul>4.R44SHDp</ul>
+                </infos>
+            </country>
+            <country id="C013" canClick="1">
+                <color>0x60CD45</color>
+                <infos>
+                    <ul>1.ymMf</ul>
+                    <ul>2.RPB8N</ul>
+                    <ul>3.BiMyKi</ul>
+                    <ul>4.CRhweES</ul>
+                </infos>
+            </country>
+            <country id="C014" canClick="0">
+                <color>0xAD4E15</color>
+                <infos>
+                    <ul>1.Te8M</ul>
+                    <ul>2.fbrMX</ul>
+                    <ul>3.j4wCxC</ul>
+                    <ul>4.Zmaddps</ul>
+                </infos>
+            </country>
+            <country id="C015" canClick="0">
+                <color>0xE199C</color>
+                <infos>
+                    <ul>1.tYen</ul>
+                    <ul>2.fNPni</ul>
+                    <ul>3.QQxT3X</ul>
+                    <ul>4.xN7QQTz</ul>
+                </infos>
+            </country>
+            <country id="C016" canClick="1">
+                <color>0xC8CC0C</color>
+                <infos>
+                    <ul>1.Ky4D</ul>
+                    <ul>2.txPtn</ul>
+                    <ul>3.wwmPRh</ul>
+                    <ul>4.FatM7PF</ul>
+                </infos>
+            </country>
+            <country id="C017" canClick="0">
+                <color>0xF8AF5D</color>
+                <infos>
+                    <ul>1.tbbm</ul>
+                    <ul>2.wENDW</ul>
+                    <ul>3.kNAzCh</ul>
+                    <ul>4.rNcb66h</ul>
+                </infos>
+            </country>
+            <country id="C018" canClick="0">
+                <color>0x287907</color>
+                <infos>
+                    <ul>1.BtwC</ul>
+                    <ul>2.eFN8A</ul>
+                    <ul>3.yGFNpc</ul>
+                    <ul>4.pHkeTwi</ul>
+                </infos>
+            </country>
+            <country id="C019" canClick="1">
+                <color>0x3BFA1</color>
+                <infos>
+                    <ul>1.mAKj</ul>
+                    <ul>2.SJdnn</ul>
+                    <ul>3.s3bNKr</ul>
+                    <ul>4.AciCiwJ</ul>
+                </infos>
+            </country>
+            <country id="C020" canClick="0">
+                <color>0xF2B2C2</color>
+                <infos>
+                    <ul>1.yNAh</ul>
+                    <ul>2.pRzfF</ul>
+                    <ul>3.ixKfCi</ul>
+                    <ul>4.HWA6RYE</ul>
+                </infos>
+            </country>
+            <country id="C021" canClick="1">
+                <color>0x1CED20</color>
+                <infos>
+                    <ul>1.eiPy</ul>
+                    <ul>2.pXNQz</ul>
+                    <ul>3.wrybGS</ul>
+                    <ul>4.eryC64e</ul>
+                </infos>
+            </country>
+            <country id="C022" canClick="1">
+                <color>0x65B373</color>
+                <infos>
+                    <ul>1.ZmpN</ul>
+                    <ul>2.NAmCp</ul>
+                    <ul>3.nEeHWh</ul>
+                    <ul>4.kPHjfNS</ul>
+                </infos>
+            </country>
+            <country id="C023" canClick="1">
+                <color>0x861965</color>
+                <infos>
+                    <ul>1.rfPp</ul>
+                    <ul>2.DsXFd</ul>
+                    <ul>3.NjyfeN</ul>
+                    <ul>4.8iSMndN</ul>
+                </infos>
+            </country>
+            <country id="C024" canClick="0">
+                <color>0x994CD1</color>
+                <infos>
+                    <ul>1.RcGB</ul>
+                    <ul>2.5Nphc</ul>
+                    <ul>3.2f66mH</ul>
+                    <ul>4.GjHmn8h</ul>
+                </infos>
+            </country>
+            <country id="C025" canClick="1">
+                <color>0x8FAAB0</color>
+                <infos>
+                    <ul>1.ybAz</ul>
+                    <ul>2.TCTC6</ul>
+                    <ul>3.z4kCcJ</ul>
+                    <ul>4.p5Dzm3A</ul>
+                </infos>
+            </country>
+            <country id="C026" canClick="0">
+                <color>0xB77D0B</color>
+                <infos>
+                    <ul>1.pQ6n</ul>
+                    <ul>2.bnMcA</ul>
+                    <ul>3.6ceKjS</ul>
+                    <ul>4.hetpNBZ</ul>
+                </infos>
+            </country>
+            <country id="C027" canClick="0">
+                <color>0x8E399A</color>
+                <infos>
+                    <ul>1.rmD2</ul>
+                    <ul>2.mhZYs</ul>
+                    <ul>3.mEXfyY</ul>
+                    <ul>4.KChN3CT</ul>
+                </infos>
+            </country>
+            <country id="C028" canClick="1">
+                <color>0x5ACAFA</color>
+                <infos>
+                    <ul>1.7jQB</ul>
+                    <ul>2.zTyhk</ul>
+                    <ul>3.7AxjT6</ul>
+                    <ul>4.XYNbHFb</ul>
+                </infos>
+            </country>
+            <country id="C029" canClick="1">
+                <color>0xC715A7</color>
+                <infos>
+                    <ul>1.yf8d</ul>
+                    <ul>2.ZSAAk</ul>
+                    <ul>3.eapttE</ul>
+                    <ul>4.KERxpYP</ul>
+                </infos>
+            </country>
+            <country id="C030" canClick="0">
+                <color>0x1AEDF3</color>
+                <infos>
+                    <ul>1.tKNF</ul>
+                    <ul>2.6k6Kr</ul>
+                    <ul>3.eHdAXQ</ul>
+                    <ul>4.54ZfdDz</ul>
+                </infos>
+            </country>
+            <country id="C031" canClick="0">
+                <color>0xC2834D</color>
+                <infos>
+                    <ul>1.mWGB</ul>
+                    <ul>2.epSEy</ul>
+                    <ul>3.JjSyQP</ul>
+                    <ul>4.ZGBZJt7</ul>
+                </infos>
+            </country>
+            <country id="C032" canClick="0">
+                <color>0x55D8E4</color>
+                <infos>
+                    <ul>1.SMFp</ul>
+                    <ul>2.HcwwK</ul>
+                    <ul>3.3MKrFX</ul>
+                    <ul>4.jD8k3zX</ul>
+                </infos>
+            </country>
+            <country id="C033" canClick="0">
+                <color>0x2C826B</color>
+                <infos>
+                    <ul>1.xEiS</ul>
+                    <ul>2.cykMG</ul>
+                    <ul>3.SyeGH8</ul>
+                    <ul>4.krnYK43</ul>
+                </infos>
+            </country>
+            <country id="C034" canClick="0">
+                <color>0xA12455</color>
+                <infos>
+                    <ul>1.iFiw</ul>
+                    <ul>2.7fnNc</ul>
+                    <ul>3.ePEcF7</ul>
+                    <ul>4.8YXcw2W</ul>
+                </infos>
+            </country>
+            <country id="C035" canClick="0">
+                <color>0xBE4D39</color>
+                <infos>
+                    <ul>1.rHpQ</ul>
+                    <ul>2.a3yFY</ul>
+                    <ul>3.NHb8p7</ul>
+                    <ul>4.EQZkQQW</ul>
+                </infos>
+            </country>
+            <country id="C036" canClick="1">
+                <color>0x913DDE</color>
+                <infos>
+                    <ul>1.SPeA</ul>
+                    <ul>2.CHBGm</ul>
+                    <ul>3.jPGFip</ul>
+                    <ul>4.SJD36ad</ul>
+                </infos>
+            </country>
+            <country id="C037" canClick="1">
+                <color>0x74B3A</color>
+                <infos>
+                    <ul>1.JQYW</ul>
+                    <ul>2.DbMyj</ul>
+                    <ul>3.NW5Af6</ul>
+                    <ul>4.FWCK83j</ul>
+                </infos>
+            </country>
+            <country id="C038" canClick="0">
+                <color>0x8EEAB0</color>
+                <infos>
+                    <ul>1.Tr8k</ul>
+                    <ul>2.riNF7</ul>
+                    <ul>3.X4dBQH</ul>
+                    <ul>4.k3sYnkR</ul>
+                </infos>
+            </country>
+            <country id="C039" canClick="0">
+                <color>0x7864B9</color>
+                <infos>
+                    <ul>1.nHTK</ul>
+                    <ul>2.zEMRE</ul>
+                    <ul>3.cX5em4</ul>
+                    <ul>4.Nx7dkPK</ul>
+                </infos>
+            </country>
+            <country id="C040" canClick="1">
+                <color>0x9C2464</color>
+                <infos>
+                    <ul>1.btcJ</ul>
+                    <ul>2.Ze68K</ul>
+                    <ul>3.647YhW</ul>
+                    <ul>4.cBM8ZhD</ul>
+                </infos>
+            </country>
+            <country id="C041" canClick="0">
+                <color>0x5D7613</color>
+                <infos>
+                    <ul>1.n5Jx</ul>
+                    <ul>2.WTHBA</ul>
+                    <ul>3.Net7Yi</ul>
+                    <ul>4.GfnCd3G</ul>
+                </infos>
+            </country>
+            <country id="C042" canClick="0">
+                <color>0xA501C8</color>
+                <infos>
+                    <ul>1.rzce</ul>
+                    <ul>2.nywFA</ul>
+                    <ul>3.yfenPa</ul>
+                    <ul>4.Y4FzFxZ</ul>
+                </infos>
+            </country>
+            <country id="C043" canClick="1">
+                <color>0x3D444</color>
+                <infos>
+                    <ul>1.xwnS</ul>
+                    <ul>2.KMzyb</ul>
+                    <ul>3.AHNH7a</ul>
+                    <ul>4.WTRtAZn</ul>
+                </infos>
+            </country>
+            <country id="C044" canClick="0">
+                <color>0x5E9E92</color>
+                <infos>
+                    <ul>1.zcGs</ul>
+                    <ul>2.Xbtn4</ul>
+                    <ul>3.3ywD2S</ul>
+                    <ul>4.jwChjdi</ul>
+                </infos>
+            </country>
+            <country id="C045" canClick="0">
+                <color>0x9F7309</color>
+                <infos>
+                    <ul>1.88dw</ul>
+                    <ul>2.YSRzW</ul>
+                    <ul>3.ymemTF</ul>
+                    <ul>4.8Mezhrp</ul>
+                </infos>
+            </country>
+            <country id="C046" canClick="0">
+                <color>0x291F3B</color>
+                <infos>
+                    <ul>1.yPZX</ul>
+                    <ul>2.Ns8dW</ul>
+                    <ul>3.S4d3GQ</ul>
+                    <ul>4.ez7B7yy</ul>
+                </infos>
+            </country>
+            <country id="C047" canClick="0">
+                <color>0xB28AF3</color>
+                <infos>
+                    <ul>1.fR7z</ul>
+                    <ul>2.PNA6A</ul>
+                    <ul>3.W5bJ8C</ul>
+                    <ul>4.6fXbcJ3</ul>
+                </infos>
+            </country>
+            <country id="C048" canClick="1">
+                <color>0x4356AB</color>
+                <infos>
+                    <ul>1.ttfY</ul>
+                    <ul>2.8Pjht</ul>
+                    <ul>3.zr5snc</ul>
+                    <ul>4.kT2Wbny</ul>
+                </infos>
+            </country>
+            <country id="C049" canClick="1">
+                <color>0xDBC3D9</color>
+                <infos>
+                    <ul>1.EttS</ul>
+                    <ul>2.sP54M</ul>
+                    <ul>3.2KZwdZ</ul>
+                    <ul>4.x5fRZTy</ul>
+                </infos>
+            </country>
+            <country id="C050" canClick="1">
+                <color>0xC49829</color>
+                <infos>
+                    <ul>1.nt4n</ul>
+                    <ul>2.simPr</ul>
+                    <ul>3.6tfzJa</ul>
+                    <ul>4.y3xhmMr</ul>
+                </infos>
+            </country>
+            <country id="C051" canClick="0">
+                <color>0xC4F530</color>
+                <infos>
+                    <ul>1.GRQG</ul>
+                    <ul>2.yC2nZ</ul>
+                    <ul>3.RGWwRE</ul>
+                    <ul>4.weAFCNK</ul>
+                </infos>
+            </country>
+            <country id="C052" canClick="0">
+                <color>0x26B3E5</color>
+                <infos>
+                    <ul>1.8SmG</ul>
+                    <ul>2.eTHsE</ul>
+                    <ul>3.76XwtD</ul>
+                    <ul>4.yicNBCs</ul>
+                </infos>
+            </country>
+            <country id="C053" canClick="1">
+                <color>0x6456D3</color>
+                <infos>
+                    <ul>1.ek7m</ul>
+                    <ul>2.wrifJ</ul>
+                    <ul>3.HDJEmh</ul>
+                    <ul>4.QFZPdj7</ul>
+                </infos>
+            </country>
+            <country id="C054" canClick="0">
+                <color>0x75B95</color>
+                <infos>
+                    <ul>1.a3r2</ul>
+                    <ul>2.JpnQW</ul>
+                    <ul>3.MTErEs</ul>
+                    <ul>4.K8Skc4a</ul>
+                </infos>
+            </country>
+            <country id="C055" canClick="0">
+                <color>0x4D98AB</color>
+                <infos>
+                    <ul>1.3iwr</ul>
+                    <ul>2.SDffa</ul>
+                    <ul>3.sK6yKi</ul>
+                    <ul>4.xBGtNYY</ul>
+                </infos>
+            </country>
+            <country id="C056" canClick="1">
+                <color>0xC093C0</color>
+                <infos>
+                    <ul>1.dSt8</ul>
+                    <ul>2.6YQCS</ul>
+                    <ul>3.z4MxEP</ul>
+                    <ul>4.fkdCptx</ul>
+                </infos>
+            </country>
+            <country id="C057" canClick="0">
+                <color>0x6BA670</color>
+                <infos>
+                    <ul>1.BtfZ</ul>
+                    <ul>2.73rzi</ul>
+                    <ul>3.xYf5iE</ul>
+                    <ul>4.JsebdKe</ul>
+                </infos>
+            </country>
+            <country id="C058" canClick="0">
+                <color>0xC0D600</color>
+                <infos>
+                    <ul>1.edFw</ul>
+                    <ul>2.FnQfS</ul>
+                    <ul>3.6XNTYp</ul>
+                    <ul>4.NXDJmfD</ul>
+                </infos>
+            </country>
+            <country id="C059" canClick="1">
+                <color>0x5E159C</color>
+                <infos>
+                    <ul>1.thEB</ul>
+                    <ul>2.YW8Si</ul>
+                    <ul>3.NyKzZr</ul>
+                    <ul>4.zbF3wkM</ul>
+                </infos>
+            </country>
+            <country id="C060" canClick="1">
+                <color>0x59A5BB</color>
+                <infos>
+                    <ul>1.R86j</ul>
+                    <ul>2.abwmE</ul>
+                    <ul>3.kjGNya</ul>
+                    <ul>4.xzGHrnp</ul>
+                </infos>
+            </country>
+            <country id="C061" canClick="1">
+                <color>0x5D1BBF</color>
+                <infos>
+                    <ul>1.wXQj</ul>
+                    <ul>2.sE8Zr</ul>
+                    <ul>3.33hZMj</ul>
+                    <ul>4.kCbRCAM</ul>
+                </infos>
+            </country>
+            <country id="C062" canClick="0">
+                <color>0x7A0712</color>
+                <infos>
+                    <ul>1.ajZp</ul>
+                    <ul>2.mjY5e</ul>
+                    <ul>3.QHDKxA</ul>
+                    <ul>4.sme7edQ</ul>
+                </infos>
+            </country>
+            <country id="C063" canClick="1">
+                <color>0xFB3107</color>
+                <infos>
+                    <ul>1.6imE</ul>
+                    <ul>2.6DFAc</ul>
+                    <ul>3.6HZQjJ</ul>
+                    <ul>4.nccaPf8</ul>
+                </infos>
+            </country>
+            <country id="C064" canClick="1">
+                <color>0x890F49</color>
+                <infos>
+                    <ul>1.7mNp</ul>
+                    <ul>2.KbHC3</ul>
+                    <ul>3.Pa3YzC</ul>
+                    <ul>4.jCXNZHS</ul>
+                </infos>
+            </country>
+            <country id="C065" canClick="1">
+                <color>0x8455EE</color>
+                <infos>
+                    <ul>1.YP8M</ul>
+                    <ul>2.iAzrG</ul>
+                    <ul>3.JKBBSs</ul>
+                    <ul>4.d3wXQxk</ul>
+                </infos>
+            </country>
+            <country id="C066" canClick="1">
+                <color>0x2CA1A7</color>
+                <infos>
+                    <ul>1.sJk7</ul>
+                    <ul>2.JH4sb</ul>
+                    <ul>3.3h5PMx</ul>
+                    <ul>4.JHry7ri</ul>
+                </infos>
+            </country>
+            <country id="C067" canClick="0">
+                <color>0x34D268</color>
+                <infos>
+                    <ul>1.x2Ad</ul>
+                    <ul>2.aD4fZ</ul>
+                    <ul>3.ZHjp54</ul>
+                    <ul>4.aY4c6ji</ul>
+                </infos>
+            </country>
+            <country id="C068" canClick="1">
+                <color>0x428B09</color>
+                <infos>
+                    <ul>1.7Fwd</ul>
+                    <ul>2.WmxSb</ul>
+                    <ul>3.sGt3bm</ul>
+                    <ul>4.6jsZdYp</ul>
+                </infos>
+            </country>
+            <country id="C069" canClick="1">
+                <color>0x21495E</color>
+                <infos>
+                    <ul>1.xaG4</ul>
+                    <ul>2.mdWf4</ul>
+                    <ul>3.nKbmn2</ul>
+                    <ul>4.YxnTpY8</ul>
+                </infos>
+            </country>
+            <country id="C070" canClick="0">
+                <color>0xB48E05</color>
+                <infos>
+                    <ul>1.k8Ay</ul>
+                    <ul>2.W3xtp</ul>
+                    <ul>3.sC6FXQ</ul>
+                    <ul>4.PXTnAAm</ul>
+                </infos>
+            </country>
+            <country id="C071" canClick="0">
+                <color>0x705E54</color>
+                <infos>
+                    <ul>1.2Da7</ul>
+                    <ul>2.ysRr3</ul>
+                    <ul>3.XmwHxE</ul>
+                    <ul>4.rFd2pMX</ul>
+                </infos>
+            </country>
+            <country id="C072" canClick="0">
+                <color>0x1F7CE6</color>
+                <infos>
+                    <ul>1.DtBj</ul>
+                    <ul>2.nyGDD</ul>
+                    <ul>3.iTDh8s</ul>
+                    <ul>4.yxKADEa</ul>
+                </infos>
+            </country>
+            <country id="C073" canClick="0">
+                <color>0x302D81</color>
+                <infos>
+                    <ul>1.dAaT</ul>
+                    <ul>2.GGrxD</ul>
+                    <ul>3.Dm4PPk</ul>
+                    <ul>4.psPtQAb</ul>
+                </infos>
+            </country>
+            <country id="C074" canClick="1">
+                <color>0xE866B8</color>
+                <infos>
+                    <ul>1.hSJY</ul>
+                    <ul>2.MsZFA</ul>
+                    <ul>3.nYdxHW</ul>
+                    <ul>4.3tZN2dB</ul>
+                </infos>
+            </country>
+            <country id="C075" canClick="1">
+                <color>0x31AFE6</color>
+                <infos>
+                    <ul>1.3Y2f</ul>
+                    <ul>2.bSYde</ul>
+                    <ul>3.3ArNhG</ul>
+                    <ul>4.n8ahjXX</ul>
+                </infos>
+            </country>
+            <country id="C076" canClick="1">
+                <color>0xB2AB1E</color>
+                <infos>
+                    <ul>1.XaDE</ul>
+                    <ul>2.wDRnJ</ul>
+                    <ul>3.CQs27x</ul>
+                    <ul>4.ifQYszc</ul>
+                </infos>
+            </country>
+            <country id="C077" canClick="0">
+                <color>0x13AD2F</color>
+                <infos>
+                    <ul>1.bkCX</ul>
+                    <ul>2.TXfDj</ul>
+                    <ul>3.Y5aErs</ul>
+                    <ul>4.XFSsH25</ul>
+                </infos>
+            </country>
+            <country id="C078" canClick="0">
+                <color>0x1D5CD9</color>
+                <infos>
+                    <ul>1.spDy</ul>
+                    <ul>2.e3Kww</ul>
+                    <ul>3.EpfHmZ</ul>
+                    <ul>4.NsG8Y3d</ul>
+                </infos>
+            </country>
+            <country id="C079" canClick="0">
+                <color>0x80E23C</color>
+                <infos>
+                    <ul>1.3cMF</ul>
+                    <ul>2.HFJ2D</ul>
+                    <ul>3.CWynWN</ul>
+                    <ul>4.AiXceBK</ul>
+                </infos>
+            </country>
+            <country id="C080" canClick="0">
+                <color>0xAD1214</color>
+                <infos>
+                    <ul>1.ire8</ul>
+                    <ul>2.8Jj2Q</ul>
+                    <ul>3.yxkhzD</ul>
+                    <ul>4.5WfxjFx</ul>
+                </infos>
+            </country>
+            <country id="C081" canClick="0">
+                <color>0x406748</color>
+                <infos>
+                    <ul>1.WkBd</ul>
+                    <ul>2.TTnZw</ul>
+                    <ul>3.MZ4D53</ul>
+                    <ul>4.Sipk8T8</ul>
+                </infos>
+            </country>
+            <country id="C082" canClick="1">
+                <color>0x771534</color>
+                <infos>
+                    <ul>1.SN7M</ul>
+                    <ul>2.dPk5b</ul>
+                    <ul>3.drPS4x</ul>
+                    <ul>4.5iYSHKx</ul>
+                </infos>
+            </country>
+            <country id="C083" canClick="0">
+                <color>0xFD2DD9</color>
+                <infos>
+                    <ul>1.JCY5</ul>
+                    <ul>2.6JyCZ</ul>
+                    <ul>3.5aEZEM</ul>
+                    <ul>4.NaEsj7P</ul>
+                </infos>
+            </country>
+            <country id="C084" canClick="0">
+                <color>0xEB43DD</color>
+                <infos>
+                    <ul>1.iwHs</ul>
+                    <ul>2.8ZQDn</ul>
+                    <ul>3.y7FdAF</ul>
+                    <ul>4.MhJQRaJ</ul>
+                </infos>
+            </country>
+            <country id="C085" canClick="1">
+                <color>0x2DFB37</color>
+                <infos>
+                    <ul>1.pTX6</ul>
+                    <ul>2.zJTwH</ul>
+                    <ul>3.dTZ3Ek</ul>
+                    <ul>4.5pGhaT7</ul>
+                </infos>
+            </country>
+            <country id="C086" canClick="1">
+                <color>0xD2AC44</color>
+                <infos>
+                    <ul>1.2m6N</ul>
+                    <ul>2.DDjfb</ul>
+                    <ul>3.jP7D6p</ul>
+                    <ul>4.R6cc5na</ul>
+                </infos>
+            </country>
+            <country id="C087" canClick="1">
+                <color>0xBEE8D</color>
+                <infos>
+                    <ul>1.bGRH</ul>
+                    <ul>2.QKZrA</ul>
+                    <ul>3.72Zyc2</ul>
+                    <ul>4.BQbdfbQ</ul>
+                </infos>
+            </country>
+            <country id="C088" canClick="0">
+                <color>0x719145</color>
+                <infos>
+                    <ul>1.xh2d</ul>
+                    <ul>2.JJQEy</ul>
+                    <ul>3.m4H4bK</ul>
+                    <ul>4.idQMNPp</ul>
+                </infos>
+            </country>
+            <country id="C089" canClick="1">
+                <color>0x28C343</color>
+                <infos>
+                    <ul>1.GSCE</ul>
+                    <ul>2.fMDec</ul>
+                    <ul>3.BBmMhf</ul>
+                    <ul>4.d7jK5Yc</ul>
+                </infos>
+            </country>
+            <country id="C090" canClick="0">
+                <color>0x10AE59</color>
+                <infos>
+                    <ul>1.yCDJ</ul>
+                    <ul>2.6D7BS</ul>
+                    <ul>3.T3cSdb</ul>
+                    <ul>4.8A8zQzK</ul>
+                </infos>
+            </country>
+            <country id="C091" canClick="0">
+                <color>0x337A5A</color>
+                <infos>
+                    <ul>1.cANk</ul>
+                    <ul>2.dMWRb</ul>
+                    <ul>3.eBHW7T</ul>
+                    <ul>4.R5s4WPc</ul>
+                </infos>
+            </country>
+            <country id="C092" canClick="1">
+                <color>0xF5665F</color>
+                <infos>
+                    <ul>1.kaw8</ul>
+                    <ul>2.3J3wb</ul>
+                    <ul>3.xCc7PR</ul>
+                    <ul>4.TkaHXdQ</ul>
+                </infos>
+            </country>
+            <country id="C093" canClick="0">
+                <color>0xE973E2</color>
+                <infos>
+                    <ul>1.Pp8Q</ul>
+                    <ul>2.wTRtd</ul>
+                    <ul>3.cPRsyX</ul>
+                    <ul>4.B6yhJSF</ul>
+                </infos>
+            </country>
+            <country id="C094" canClick="0">
+                <color>0x2CEC84</color>
+                <infos>
+                    <ul>1.sGpd</ul>
+                    <ul>2.FCEMe</ul>
+                    <ul>3.Xntfbc</ul>
+                    <ul>4.YkXziDh</ul>
+                </infos>
+            </country>
+            <country id="C095" canClick="0">
+                <color>0x159344</color>
+                <infos>
+                    <ul>1.aWZX</ul>
+                    <ul>2.8Ph5P</ul>
+                    <ul>3.Ydst4e</ul>
+                    <ul>4.8dSSR4T</ul>
+                </infos>
+            </country>
+            <country id="C096" canClick="0">
+                <color>0x86000B</color>
+                <infos>
+                    <ul>1.aEmf</ul>
+                    <ul>2.JsKcm</ul>
+                    <ul>3.wd8YEW</ul>
+                    <ul>4.mMDppPf</ul>
+                </infos>
+            </country>
+            <country id="C097" canClick="1">
+                <color>0x1BB991</color>
+                <infos>
+                    <ul>1.y7Dn</ul>
+                    <ul>2.kzwnn</ul>
+                    <ul>3.zp3PRB</ul>
+                    <ul>4.hT5mpNM</ul>
+                </infos>
+            </country>
+            <country id="C098" canClick="1">
+                <color>0x9FA46D</color>
+                <infos>
+                    <ul>1.DAPN</ul>
+                    <ul>2.d5ShZ</ul>
+                    <ul>3.YJ2dyJ</ul>
+                    <ul>4.Frf55M4</ul>
+                </infos>
+            </country>
+            <country id="C099" canClick="0">
+                <color>0x5DCDFB</color>
+                <infos>
+                    <ul>1.8Ar3</ul>
+                    <ul>2.8SQ7Y</ul>
+                    <ul>3.Q4dmmh</ul>
+                    <ul>4.P8QtM8W</ul>
+                </infos>
+            </country>
+            <country id="C100" canClick="1">
+                <color>0x129195</color>
+                <infos>
+                    <ul>1.Mx3z</ul>
+                    <ul>2.DDP5f</ul>
+                    <ul>3.3XbjNZ</ul>
+                    <ul>4.dzjbPeG</ul>
+                </infos>
+            </country>
+            <country id="C101" canClick="1">
+                <color>0xBF6837</color>
+                <infos>
+                    <ul>1.Fkm5</ul>
+                    <ul>2.Js2hs</ul>
+                    <ul>3.pJcnHJ</ul>
+                    <ul>4.MD6fGtz</ul>
+                </infos>
+            </country>
+            <country id="C102" canClick="1">
+                <color>0xB2DCB4</color>
+                <infos>
+                    <ul>1.AH8Q</ul>
+                    <ul>2.YRbRt</ul>
+                    <ul>3.5sykQC</ul>
+                    <ul>4.kWYcX5D</ul>
+                </infos>
+            </country>
+            <country id="C103" canClick="0">
+                <color>0x4D3A7</color>
+                <infos>
+                    <ul>1.c52z</ul>
+                    <ul>2.ejAek</ul>
+                    <ul>3.weXN4S</ul>
+                    <ul>4.M5MB7cf</ul>
+                </infos>
+            </country>
+            <country id="C104" canClick="0">
+                <color>0x2C412C</color>
+                <infos>
+                    <ul>1.AxDJ</ul>
+                    <ul>2.G3TRM</ul>
+                    <ul>3.XQzrQt</ul>
+                    <ul>4.tPrhNpM</ul>
+                </infos>
+            </country>
+            <country id="C105" canClick="0">
+                <color>0x3DC055</color>
+                <infos>
+                    <ul>1.estr</ul>
+                    <ul>2.JPAds</ul>
+                    <ul>3.PG5STB</ul>
+                    <ul>4.kcGAa6E</ul>
+                </infos>
+            </country>
+            <country id="C106" canClick="0">
+                <color>0x70A10F</color>
+                <infos>
+                    <ul>1.SnzQ</ul>
+                    <ul>2.fyAH7</ul>
+                    <ul>3.N2xPeb</ul>
+                    <ul>4.QS3fyeP</ul>
+                </infos>
+            </country>
+            <country id="C107" canClick="1">
+                <color>0x452523</color>
+                <infos>
+                    <ul>1.w7C6</ul>
+                    <ul>2.Fj8QZ</ul>
+                    <ul>3.8PQTB8</ul>
+                    <ul>4.8Cak42F</ul>
+                </infos>
+            </country>
+            <country id="C108" canClick="1">
+                <color>0x3B3152</color>
+                <infos>
+                    <ul>1.wZze</ul>
+                    <ul>2.Q8PSr</ul>
+                    <ul>3.hhstTS</ul>
+                    <ul>4.KManrSh</ul>
+                </infos>
+            </country>
+            <country id="C109" canClick="0">
+                <color>0x7488C9</color>
+                <infos>
+                    <ul>1.D32Y</ul>
+                    <ul>2.SH86Q</ul>
+                    <ul>3.NK24EN</ul>
+                    <ul>4.tNPTkMB</ul>
+                </infos>
+            </country>
+            <country id="C110" canClick="1">
+                <color>0xD0A3F1</color>
+                <infos>
+                    <ul>1.PacQ</ul>
+                    <ul>2.JJmQD</ul>
+                    <ul>3.r8MZXW</ul>
+                    <ul>4.T62hkR7</ul>
+                </infos>
+            </country>
+            <country id="C111" canClick="1">
+                <color>0xF9A80A</color>
+                <infos>
+                    <ul>1.An2A</ul>
+                    <ul>2.CdFA6</ul>
+                    <ul>3.hGBTiP</ul>
+                    <ul>4.mzK7J2X</ul>
+                </infos>
+            </country>
+            <country id="C112" canClick="0">
+                <color>0xB31BA5</color>
+                <infos>
+                    <ul>1.R8Rm</ul>
+                    <ul>2.4zTwQ</ul>
+                    <ul>3.k8PxxC</ul>
+                    <ul>4.ncjExNi</ul>
+                </infos>
+            </country>
+            <country id="C113" canClick="1">
+                <color>0x49CF6E</color>
+                <infos>
+                    <ul>1.HyRt</ul>
+                    <ul>2.RbE7P</ul>
+                    <ul>3.hyRKTK</ul>
+                    <ul>4.5J4XF65</ul>
+                </infos>
+            </country>
+            <country id="C114" canClick="0">
+                <color>0xC4EC9</color>
+                <infos>
+                    <ul>1.SeeK</ul>
+                    <ul>2.bSBCH</ul>
+                    <ul>3.65ezdB</ul>
+                    <ul>4.XyBerm8</ul>
+                </infos>
+            </country>
+            <country id="C115" canClick="0">
+                <color>0x708481</color>
+                <infos>
+                    <ul>1.fAWX</ul>
+                    <ul>2.fkeSN</ul>
+                    <ul>3.XHDwpX</ul>
+                    <ul>4.GQkcnjA</ul>
+                </infos>
+            </country>
+            <country id="C116" canClick="1">
+                <color>0x4A188E</color>
+                <infos>
+                    <ul>1.M62A</ul>
+                    <ul>2.P4WrQ</ul>
+                    <ul>3.i3c3xz</ul>
+                    <ul>4.eaTWMQQ</ul>
+                </infos>
+            </country>
+            <country id="C117" canClick="0">
+                <color>0x713903</color>
+                <infos>
+                    <ul>1.fwMj</ul>
+                    <ul>2.2EiMz</ul>
+                    <ul>3.mtCXwS</ul>
+                    <ul>4.5bNcMWR</ul>
+                </infos>
+            </country>
+            <country id="C118" canClick="0">
+                <color>0xA52BF2</color>
+                <infos>
+                    <ul>1.rbA5</ul>
+                    <ul>2.Se6ba</ul>
+                    <ul>3.SrZjpD</ul>
+                    <ul>4.MwZaTHN</ul>
+                </infos>
+            </country>
+            <country id="C119" canClick="1">
+                <color>0xFC3EF</color>
+                <infos>
+                    <ul>1.bNxF</ul>
+                    <ul>2.zHxHz</ul>
+                    <ul>3.mia7At</ul>
+                    <ul>4.syXfSFB</ul>
+                </infos>
+            </country>
+            <country id="C120" canClick="0">
+                <color>0xF9A68F</color>
+                <infos>
+                    <ul>1.bDnb</ul>
+                    <ul>2.nYyyh</ul>
+                    <ul>3.sYEanr</ul>
+                    <ul>4.8XP2Shs</ul>
+                </infos>
+            </country>
+            <country id="C121" canClick="0">
+                <color>0x1A1328</color>
+                <infos>
+                    <ul>1.SGzs</ul>
+                    <ul>2.tY26w</ul>
+                    <ul>3.M4hRhW</ul>
+                    <ul>4.T7Sxa4G</ul>
+                </infos>
+            </country>
+            <country id="C122" canClick="0">
+                <color>0xBDB159</color>
+                <infos>
+                    <ul>1.Enez</ul>
+                    <ul>2.HCBYY</ul>
+                    <ul>3.AFPYYe</ul>
+                    <ul>4.sHafQbt</ul>
+                </infos>
+            </country>
+            <country id="C123" canClick="0">
+                <color>0x7375F7</color>
+                <infos>
+                    <ul>1.AZYf</ul>
+                    <ul>2.rD8Kj</ul>
+                    <ul>3.25ZF4e</ul>
+                    <ul>4.pkx6Zjy</ul>
+                </infos>
+            </country>
+            <country id="C124" canClick="0">
+                <color>0xC7B76C</color>
+                <infos>
+                    <ul>1.78SN</ul>
+                    <ul>2.pA28P</ul>
+                    <ul>3.PDKrX2</ul>
+                    <ul>4.dymZFnw</ul>
+                </infos>
+            </country>
+            <country id="C125" canClick="0">
+                <color>0xCCEA56</color>
+                <infos>
+                    <ul>1.e2WZ</ul>
+                    <ul>2.QXEzy</ul>
+                    <ul>3.wpsSx8</ul>
+                    <ul>4.43n8r5B</ul>
+                </infos>
+            </country>
+            <country id="C126" canClick="0">
+                <color>0x124942</color>
+                <infos>
+                    <ul>1.SWzW</ul>
+                    <ul>2.2t2XP</ul>
+                    <ul>3.MnnMaW</ul>
+                    <ul>4.WA276Mp</ul>
+                </infos>
+            </country>
+            <country id="C127" canClick="1">
+                <color>0x5EB7DA</color>
+                <infos>
+                    <ul>1.3xci</ul>
+                    <ul>2.hZ28R</ul>
+                    <ul>3.jc7QYx</ul>
+                    <ul>4.5afE8ps</ul>
+                </infos>
+            </country>
+            <country id="C128" canClick="1">
+                <color>0x1ADD53</color>
+                <infos>
+                    <ul>1.cCz4</ul>
+                    <ul>2.PStGm</ul>
+                    <ul>3.xf3rcN</ul>
+                    <ul>4.nPHXHjw</ul>
+                </infos>
+            </country>
+            <country id="C129" canClick="1">
+                <color>0xCC53E</color>
+                <infos>
+                    <ul>1.Dd5y</ul>
+                    <ul>2.HwHCh</ul>
+                    <ul>3.PFM8Fy</ul>
+                    <ul>4.H5ndMmK</ul>
+                </infos>
+            </country>
+            <country id="C130" canClick="1">
+                <color>0x118716</color>
+                <infos>
+                    <ul>1.j7R6</ul>
+                    <ul>2.sZ7QR</ul>
+                    <ul>3.mNYr5A</ul>
+                    <ul>4.zRKJhrn</ul>
+                </infos>
+            </country>
+            <country id="C131" canClick="1">
+                <color>0xB2494F</color>
+                <infos>
+                    <ul>1.bAzn</ul>
+                    <ul>2.ehQTH</ul>
+                    <ul>3.jkN2Z4</ul>
+                    <ul>4.kHDQzyz</ul>
+                </infos>
+            </country>
+            <country id="C132" canClick="0">
+                <color>0x3A93E0</color>
+                <infos>
+                    <ul>1.yYhK</ul>
+                    <ul>2.bZHP5</ul>
+                    <ul>3.F8iRKn</ul>
+                    <ul>4.kyTGAja</ul>
+                </infos>
+            </country>
+            <country id="C133" canClick="0">
+                <color>0x165ADD</color>
+                <infos>
+                    <ul>1.KSf2</ul>
+                    <ul>2.d6XcH</ul>
+                    <ul>3.PzNYZM</ul>
+                    <ul>4.zzEE4CM</ul>
+                </infos>
+            </country>
+            <country id="C134" canClick="1">
+                <color>0xB63A1C</color>
+                <infos>
+                    <ul>1.J57A</ul>
+                    <ul>2.QyBRB</ul>
+                    <ul>3.JawbXb</ul>
+                    <ul>4.Z5G36S2</ul>
+                </infos>
+            </country>
+            <country id="C135" canClick="1">
+                <color>0x4DAEE6</color>
+                <infos>
+                    <ul>1.C7tG</ul>
+                    <ul>2.JEMAY</ul>
+                    <ul>3.FREc25</ul>
+                    <ul>4.shWyMtb</ul>
+                </infos>
+            </country>
+            <country id="C136" canClick="0">
+                <color>0xE4611D</color>
+                <infos>
+                    <ul>1.dCDQ</ul>
+                    <ul>2.cpwrS</ul>
+                    <ul>3.KKpC4S</ul>
+                    <ul>4.5A2xQZx</ul>
+                </infos>
+            </country>
+            <country id="C137" canClick="1">
+                <color>0xA9225C</color>
+                <infos>
+                    <ul>1.wn6N</ul>
+                    <ul>2.8hje7</ul>
+                    <ul>3.hwDxck</ul>
+                    <ul>4.xZnSW3B</ul>
+                </infos>
+            </country>
+            <country id="C138" canClick="1">
+                <color>0xA99D60</color>
+                <infos>
+                    <ul>1.2Dii</ul>
+                    <ul>2.AtYDm</ul>
+                    <ul>3.S8pmCD</ul>
+                    <ul>4.C8B5K2w</ul>
+                </infos>
+            </country>
+            <country id="C139" canClick="1">
+                <color>0x666941</color>
+                <infos>
+                    <ul>1.8RcK</ul>
+                    <ul>2.EMbj4</ul>
+                    <ul>3.FDSEeQ</ul>
+                    <ul>4.28PrtRe</ul>
+                </infos>
+            </country>
+            <country id="C140" canClick="1">
+                <color>0x2DCBE8</color>
+                <infos>
+                    <ul>1.jyi8</ul>
+                    <ul>2.jYbKE</ul>
+                    <ul>3.6BBafa</ul>
+                    <ul>4.3SnypFt</ul>
+                </infos>
+            </country>
+            <country id="C141" canClick="0">
+                <color>0x70FC65</color>
+                <infos>
+                    <ul>1.QN75</ul>
+                    <ul>2.Fe4hC</ul>
+                    <ul>3.jRbaii</ul>
+                    <ul>4.pyNMNbG</ul>
+                </infos>
+            </country>
+            <country id="C142" canClick="0">
+                <color>0x709552</color>
+                <infos>
+                    <ul>1.ybAK</ul>
+                    <ul>2.CDkQP</ul>
+                    <ul>3.PazxcQ</ul>
+                    <ul>4.eTnSNws</ul>
+                </infos>
+            </country>
+            <country id="C143" canClick="0">
+                <color>0x27F9D1</color>
+                <infos>
+                    <ul>1.FBSp</ul>
+                    <ul>2.baJTx</ul>
+                    <ul>3.Q5khf7</ul>
+                    <ul>4.NMaFWJZ</ul>
+                </infos>
+            </country>
+            <country id="C144" canClick="0">
+                <color>0x371ED7</color>
+                <infos>
+                    <ul>1.pSXW</ul>
+                    <ul>2.hBTN6</ul>
+                    <ul>3.HF6bwG</ul>
+                    <ul>4.yjz3hCW</ul>
+                </infos>
+            </country>
+            <country id="C145" canClick="1">
+                <color>0x3DB1BD</color>
+                <infos>
+                    <ul>1.XnpD</ul>
+                    <ul>2.2RkB6</ul>
+                    <ul>3.eCT54Y</ul>
+                    <ul>4.sSAYpK6</ul>
+                </infos>
+            </country>
+            <country id="C146" canClick="1">
+                <color>0x781300</color>
+                <infos>
+                    <ul>1.GTSb</ul>
+                    <ul>2.ACdxH</ul>
+                    <ul>3.DbJS8j</ul>
+                    <ul>4.BxhPkJn</ul>
+                </infos>
+            </country>
+            <country id="C147" canClick="1">
+                <color>0x91FEF4</color>
+                <infos>
+                    <ul>1.irfT</ul>
+                    <ul>2.TrRCi</ul>
+                    <ul>3.HKa7pG</ul>
+                    <ul>4.E4CDY2R</ul>
+                </infos>
+            </country>
+            <country id="C148" canClick="0">
+                <color>0xD53C3E</color>
+                <infos>
+                    <ul>1.QftX</ul>
+                    <ul>2.eRp33</ul>
+                    <ul>3.7cxpPr</ul>
+                    <ul>4.BGchBex</ul>
+                </infos>
+            </country>
+            <country id="C149" canClick="0">
+                <color>0x401F5B</color>
+                <infos>
+                    <ul>1.6pQc</ul>
+                    <ul>2.f5JGG</ul>
+                    <ul>3.pZxKhn</ul>
+                    <ul>4.5E7AAYQ</ul>
+                </infos>
+            </country>
+            <country id="C150" canClick="1">
+                <color>0xB275D7</color>
+                <infos>
+                    <ul>1.CAyw</ul>
+                    <ul>2.zrJdk</ul>
+                    <ul>3.yayHaH</ul>
+                    <ul>4.Krr2Hj4</ul>
+                </infos>
+            </country>
+            <country id="C151" canClick="0">
+                <color>0x5FB37D</color>
+                <infos>
+                    <ul>1.jPE2</ul>
+                    <ul>2.xBwXd</ul>
+                    <ul>3.6xAahf</ul>
+                    <ul>4.2PQrN2j</ul>
+                </infos>
+            </country>
+            <country id="C152" canClick="0">
+                <color>0x4ADA6B</color>
+                <infos>
+                    <ul>1.NjTD</ul>
+                    <ul>2.XjXx8</ul>
+                    <ul>3.YSE8H8</ul>
+                    <ul>4.aDXM6A8</ul>
+                </infos>
+            </country>
+            <country id="C153" canClick="1">
+                <color>0xD761C1</color>
+                <infos>
+                    <ul>1.ffBF</ul>
+                    <ul>2.HdtE5</ul>
+                    <ul>3.D37jFz</ul>
+                    <ul>4.PZwbdty</ul>
+                </infos>
+            </country>
+            <country id="C154" canClick="0">
+                <color>0x6B3483</color>
+                <infos>
+                    <ul>1.nRKi</ul>
+                    <ul>2.YDht8</ul>
+                    <ul>3.8Dxpat</ul>
+                    <ul>4.w5pfmJx</ul>
+                </infos>
+            </country>
+            <country id="C155" canClick="1">
+                <color>0xC58BD</color>
+                <infos>
+                    <ul>1.766S</ul>
+                    <ul>2.4R2Qi</ul>
+                    <ul>3.dbYwFb</ul>
+                    <ul>4.n4dFDR6</ul>
+                </infos>
+            </country>
+            <country id="C156" canClick="0">
+                <color>0xF592CE</color>
+                <infos>
+                    <ul>1.NQyZ</ul>
+                    <ul>2.ncfZX</ul>
+                    <ul>3.prEQC2</ul>
+                    <ul>4.mRf3cef</ul>
+                </infos>
+            </country>
+            <country id="C157" canClick="1">
+                <color>0xACA4AA</color>
+                <infos>
+                    <ul>1.mS5A</ul>
+                    <ul>2.6WkjT</ul>
+                    <ul>3.EJMznM</ul>
+                    <ul>4.4nPYyQx</ul>
+                </infos>
+            </country>
+            <country id="C158" canClick="1">
+                <color>0x1BB13D</color>
+                <infos>
+                    <ul>1.EEkS</ul>
+                    <ul>2.PTawD</ul>
+                    <ul>3.frX7ZM</ul>
+                    <ul>4.8Ba4XjB</ul>
+                </infos>
+            </country>
+            <country id="C159" canClick="0">
+                <color>0x4CE519</color>
+                <infos>
+                    <ul>1.iaim</ul>
+                    <ul>2.KTrzn</ul>
+                    <ul>3.SNjjmb</ul>
+                    <ul>4.GnxftST</ul>
+                </infos>
+            </country>
+            <country id="C160" canClick="0">
+                <color>0x4E023</color>
+                <infos>
+                    <ul>1.6jBf</ul>
+                    <ul>2.bpFY8</ul>
+                    <ul>3.fFjdpS</ul>
+                    <ul>4.XXPwRpM</ul>
+                </infos>
+            </country>
+            <country id="C161" canClick="1">
+                <color>0x574583</color>
+                <infos>
+                    <ul>1.CnK8</ul>
+                    <ul>2.3QzyT</ul>
+                    <ul>3.dKJYzW</ul>
+                    <ul>4.H8JykmQ</ul>
+                </infos>
+            </country>
+            <country id="C162" canClick="0">
+                <color>0x8C0272</color>
+                <infos>
+                    <ul>1.4FGc</ul>
+                    <ul>2.YZQei</ul>
+                    <ul>3.wQAjXJ</ul>
+                    <ul>4.hWfnmcT</ul>
+                </infos>
+            </country>
+            <country id="C163" canClick="0">
+                <color>0xD7F544</color>
+                <infos>
+                    <ul>1.PicR</ul>
+                    <ul>2.7apzZ</ul>
+                    <ul>3.rCZTKQ</ul>
+                    <ul>4.KfWREJ2</ul>
+                </infos>
+            </country>
+            <country id="C164" canClick="1">
+                <color>0x3702AF</color>
+                <infos>
+                    <ul>1.Dpwp</ul>
+                    <ul>2.4HHeA</ul>
+                    <ul>3.NXkztm</ul>
+                    <ul>4.QXiZHWD</ul>
+                </infos>
+            </country>
+            <country id="C165" canClick="1">
+                <color>0xBF5C8F</color>
+                <infos>
+                    <ul>1.ESyp</ul>
+                    <ul>2.rjpCx</ul>
+                    <ul>3.8xAyXS</ul>
+                    <ul>4.AsnXNae</ul>
+                </infos>
+            </country>
+            <country id="C166" canClick="0">
+                <color>0x86B4E3</color>
+                <infos>
+                    <ul>1.PnPh</ul>
+                    <ul>2.4DZam</ul>
+                    <ul>3.N38xa4</ul>
+                    <ul>4.2TnmGsr</ul>
+                </infos>
+            </country>
+            <country id="C167" canClick="0">
+                <color>0xFDDCE6</color>
+                <infos>
+                    <ul>1.mF8P</ul>
+                    <ul>2.AFppZ</ul>
+                    <ul>3.yha7hj</ul>
+                    <ul>4.rpMYSer</ul>
+                </infos>
+            </country>
+            <country id="C168" canClick="0">
+                <color>0x5166BE</color>
+                <infos>
+                    <ul>1.ZbCK</ul>
+                    <ul>2.ptaHN</ul>
+                    <ul>3.YeTXc2</ul>
+                    <ul>4.CFkYfSG</ul>
+                </infos>
+            </country>
+            <country id="C169" canClick="1">
+                <color>0x8C856D</color>
+                <infos>
+                    <ul>1.wapY</ul>
+                    <ul>2.5aKCy</ul>
+                    <ul>3.MYQNHe</ul>
+                    <ul>4.Bz2aaER</ul>
+                </infos>
+            </country>
+            <country id="C170" canClick="0">
+                <color>0xD6DF39</color>
+                <infos>
+                    <ul>1.3s2E</ul>
+                    <ul>2.nrfR4</ul>
+                    <ul>3.DCctN7</ul>
+                    <ul>4.jXcpxA7</ul>
+                </infos>
+            </country>
+            <country id="C171" canClick="0">
+                <color>0x3DC3B9</color>
+                <infos>
+                    <ul>1.Aa3A</ul>
+                    <ul>2.5YaPH</ul>
+                    <ul>3.zbRGRj</ul>
+                    <ul>4.t5wSjSB</ul>
+                </infos>
+            </country>
+            <country id="C172" canClick="0">
+                <color>0x8514FB</color>
+                <infos>
+                    <ul>1.Yw6r</ul>
+                    <ul>2.KMrXz</ul>
+                    <ul>3.SnwPGp</ul>
+                    <ul>4.38xnp3E</ul>
+                </infos>
+            </country>
+            <country id="C173" canClick="0">
+                <color>0xEA809A</color>
+                <infos>
+                    <ul>1.pe2F</ul>
+                    <ul>2.e35zM</ul>
+                    <ul>3.wrpmsh</ul>
+                    <ul>4.TRYTfB5</ul>
+                </infos>
+            </country>
+            <country id="C174" canClick="0">
+                <color>0x81E75</color>
+                <infos>
+                    <ul>1.HDDd</ul>
+                    <ul>2.Jzn38</ul>
+                    <ul>3.JmW6be</ul>
+                    <ul>4.48pffHe</ul>
+                </infos>
+            </country>
+            <country id="C175" canClick="0">
+                <color>0x5637AE</color>
+                <infos>
+                    <ul>1.YPeE</ul>
+                    <ul>2.CKjFN</ul>
+                    <ul>3.Nbn4hK</ul>
+                    <ul>4.bKfnQws</ul>
+                </infos>
+            </country>
+            <country id="C176" canClick="0">
+                <color>0xA0EF4</color>
+                <infos>
+                    <ul>1.XbzX</ul>
+                    <ul>2.ZzwWZ</ul>
+                    <ul>3.7fptwi</ul>
+                    <ul>4.GdC53JP</ul>
+                </infos>
+            </country>
+            <country id="C177" canClick="1">
+                <color>0x6DA180</color>
+                <infos>
+                    <ul>1.w25Z</ul>
+                    <ul>2.Hp7Ef</ul>
+                    <ul>3.KsGFPi</ul>
+                    <ul>4.XjYxk4S</ul>
+                </infos>
+            </country>
+            <country id="C178" canClick="0">
+                <color>0xEBE904</color>
+                <infos>
+                    <ul>1.3tMb</ul>
+                    <ul>2.6tbTx</ul>
+                    <ul>3.Ff76cF</ul>
+                    <ul>4.a2cabEG</ul>
+                </infos>
+            </country>
+            <country id="C179" canClick="1">
+                <color>0xA6AB2B</color>
+                <infos>
+                    <ul>1.JacJ</ul>
+                    <ul>2.mH7Yy</ul>
+                    <ul>3.ySk6wY</ul>
+                    <ul>4.42aPG4p</ul>
+                </infos>
+            </country>
+            <country id="C180" canClick="1">
+                <color>0x3F5970</color>
+                <infos>
+                    <ul>1.j3NF</ul>
+                    <ul>2.Qspiy</ul>
+                    <ul>3.Y6jYMX</ul>
+                    <ul>4.cxB42nn</ul>
+                </infos>
+            </country>
+            <country id="C181" canClick="0">
+                <color>0xB12EAF</color>
+                <infos>
+                    <ul>1.E65Q</ul>
+                    <ul>2.npRSf</ul>
+                    <ul>3.ySNBi5</ul>
+                    <ul>4.kxSykp3</ul>
+                </infos>
+            </country>
+            <country id="C182" canClick="1">
+                <color>0xD56F00</color>
+                <infos>
+                    <ul>1.edeC</ul>
+                    <ul>2.7ieMf</ul>
+                    <ul>3.4F5mZb</ul>
+                    <ul>4.JENnjHb</ul>
+                </infos>
+            </country>
+            <country id="C183" canClick="1">
+                <color>0x8DA01C</color>
+                <infos>
+                    <ul>1.TbFP</ul>
+                    <ul>2.FBcQs</ul>
+                    <ul>3.xzfmzi</ul>
+                    <ul>4.3cYketf</ul>
+                </infos>
+            </country>
+            <country id="C184" canClick="1">
+                <color>0x26494</color>
+                <infos>
+                    <ul>1.z7ta</ul>
+                    <ul>2.SZkNQ</ul>
+                    <ul>3.GPpYe5</ul>
+                    <ul>4.EwnK4Fj</ul>
+                </infos>
+            </country>
+            <country id="C185" canClick="0">
+                <color>0xC45A82</color>
+                <infos>
+                    <ul>1.tMMn</ul>
+                    <ul>2.CDQpp</ul>
+                    <ul>3.jK5Wbh</ul>
+                    <ul>4.bd5ZKc6</ul>
+                </infos>
+            </country>
+            <country id="C186" canClick="0">
+                <color>0xFABAF5</color>
+                <infos>
+                    <ul>1.NniK</ul>
+                    <ul>2.zaQDT</ul>
+                    <ul>3.XXZMYm</ul>
+                    <ul>4.SXHPGrh</ul>
+                </infos>
+            </country>
+            <country id="C187" canClick="1">
+                <color>0xFFCFBD</color>
+                <infos>
+                    <ul>1.teht</ul>
+                    <ul>2.QyxHG</ul>
+                    <ul>3.BQnryH</ul>
+                    <ul>4.eaSrJCB</ul>
+                </infos>
+            </country>
+            <country id="C188" canClick="0">
+                <color>0x7CBE0D</color>
+                <infos>
+                    <ul>1.T3QK</ul>
+                    <ul>2.aZzHH</ul>
+                    <ul>3.QBthGa</ul>
+                    <ul>4.aX2K7Zd</ul>
+                </infos>
+            </country>
+            <country id="C189" canClick="0">
+                <color>0x9070E3</color>
+                <infos>
+                    <ul>1.eaGy</ul>
+                    <ul>2.hec8X</ul>
+                    <ul>3.MyjF4Z</ul>
+                    <ul>4.zywd2wB</ul>
+                </infos>
+            </country>
+            <country id="C190" canClick="0">
+                <color>0xFC34B0</color>
+                <infos>
+                    <ul>1.TYaH</ul>
+                    <ul>2.bphbZ</ul>
+                    <ul>3.JxsiQ7</ul>
+                    <ul>4.cb7SyaK</ul>
+                </infos>
+            </country>
+            <country id="C191" canClick="0">
+                <color>0xF29982</color>
+                <infos>
+                    <ul>1.Tt2r</ul>
+                    <ul>2.DNGY2</ul>
+                    <ul>3.3nPGEa</ul>
+                    <ul>4.tPWeJhP</ul>
+                </infos>
+            </country>
+            <country id="C192" canClick="0">
+                <color>0x988041</color>
+                <infos>
+                    <ul>1.ZsMB</ul>
+                    <ul>2.jPNc7</ul>
+                    <ul>3.Nmrfky</ul>
+                    <ul>4.xZrTQfD</ul>
+                </infos>
+            </country>
+            <country id="C193" canClick="0">
+                <color>0x72D413</color>
+                <infos>
+                    <ul>1.wGyD</ul>
+                    <ul>2.FTz4W</ul>
+                    <ul>3.JfyS77</ul>
+                    <ul>4.77mbW6K</ul>
+                </infos>
+            </country>
+            <country id="C194" canClick="0">
+                <color>0xC8B9C2</color>
+                <infos>
+                    <ul>1.ekpT</ul>
+                    <ul>2.W6bpa</ul>
+                    <ul>3.N7mRJh</ul>
+                    <ul>4.eiHkfDE</ul>
+                </infos>
+            </country>
+            <country id="C195" canClick="0">
+                <color>0x7636EB</color>
+                <infos>
+                    <ul>1.Ws4N</ul>
+                    <ul>2.CmazG</ul>
+                    <ul>3.hZ3sz4</ul>
+                    <ul>4.p6HStsr</ul>
+                </infos>
+            </country>
+            <country id="C196" canClick="1">
+                <color>0xE1A2B6</color>
+                <infos>
+                    <ul>1.JCK3</ul>
+                    <ul>2.724kt</ul>
+                    <ul>3.hE3bnE</ul>
+                    <ul>4.xjhmeSB</ul>
+                </infos>
+            </country>
+            <country id="C197" canClick="0">
+                <color>0x5378EF</color>
+                <infos>
+                    <ul>1.pej2</ul>
+                    <ul>2.en78e</ul>
+                    <ul>3.wHFD2a</ul>
+                    <ul>4.QrWD3ad</ul>
+                </infos>
+            </country>
+            <country id="C198" canClick="0">
+                <color>0x3A6771</color>
+                <infos>
+                    <ul>1.B3X5</ul>
+                    <ul>2.j7jYp</ul>
+                    <ul>3.whTNF2</ul>
+                    <ul>4.fCSExQR</ul>
+                </infos>
+            </country>
+            <country id="C199" canClick="0">
+                <color>0x98CCE5</color>
+                <infos>
+                    <ul>1.4b22</ul>
+                    <ul>2.i47MM</ul>
+                    <ul>3.c5zssE</ul>
+                    <ul>4.QXrtFRs</ul>
+                </infos>
+            </country>
+            <country id="C200" canClick="0">
+                <color>0xD13539</color>
+                <infos>
+                    <ul>1.PpND</ul>
+                    <ul>2.YR7d2</ul>
+                    <ul>3.sRj6F4</ul>
+                    <ul>4.8ywKi6Q</ul>
+                </infos>
+            </country>
+            <country id="C201" canClick="1">
+                <color>0xDE150F</color>
+                <infos>
+                    <ul>1.YnPR</ul>
+                    <ul>2.fj4Ds</ul>
+                    <ul>3.Nt5EQX</ul>
+                    <ul>4.ePybCph</ul>
+                </infos>
+            </country>
+            <country id="C202" canClick="0">
+                <color>0xF29AA1</color>
+                <infos>
+                    <ul>1.kWeR</ul>
+                    <ul>2.EQQdE</ul>
+                    <ul>3.meb2AM</ul>
+                    <ul>4.cSRdAwG</ul>
+                </infos>
+            </country>
+            <country id="C203" canClick="0">
+                <color>0x685A5E</color>
+                <infos>
+                    <ul>1.Y6j2</ul>
+                    <ul>2.5XhfR</ul>
+                    <ul>3.23Ywdb</ul>
+                    <ul>4.wzjmC5K</ul>
+                </infos>
+            </country>
+            <country id="C204" canClick="1">
+                <color>0xBB9BF7</color>
+                <infos>
+                    <ul>1.yyhC</ul>
+                    <ul>2.8iNxT</ul>
+                    <ul>3.WpXKdF</ul>
+                    <ul>4.wc5Xit8</ul>
+                </infos>
+            </country>
+            <country id="C205" canClick="1">
+                <color>0xC39082</color>
+                <infos>
+                    <ul>1.AARj</ul>
+                    <ul>2.b25pa</ul>
+                    <ul>3.jYf5Qz</ul>
+                    <ul>4.yQZf7dm</ul>
+                </infos>
+            </country>
+            <country id="C206" canClick="1">
+                <color>0xEC6F92</color>
+                <infos>
+                    <ul>1.xbZw</ul>
+                    <ul>2.ebxyC</ul>
+                    <ul>3.pC6tGd</ul>
+                    <ul>4.4bedRes</ul>
+                </infos>
+            </country>
+            <country id="C207" canClick="1">
+                <color>0x78F115</color>
+                <infos>
+                    <ul>1.RjNy</ul>
+                    <ul>2.iitYf</ul>
+                    <ul>3.4ssa6Q</ul>
+                    <ul>4.XmF7rX7</ul>
+                </infos>
+            </country>
+            <country id="C208" canClick="1">
+                <color>0x3C9286</color>
+                <infos>
+                    <ul>1.KPw8</ul>
+                    <ul>2.nFXsA</ul>
+                    <ul>3.irYSxh</ul>
+                    <ul>4.YHET8mB</ul>
+                </infos>
+            </country>
+            <country id="C209" canClick="0">
+                <color>0xCCD45</color>
+                <infos>
+                    <ul>1.wXwF</ul>
+                    <ul>2.WJbbF</ul>
+                    <ul>3.Ci3JKS</ul>
+                    <ul>4.aBdGWf2</ul>
+                </infos>
+            </country>
+            <country id="C210" canClick="1">
+                <color>0x338A9B</color>
+                <infos>
+                    <ul>1.M5rZ</ul>
+                    <ul>2.WkdrZ</ul>
+                    <ul>3.fZZfMF</ul>
+                    <ul>4.jrH4KKY</ul>
+                </infos>
+            </country>
+            <country id="C211" canClick="0">
+                <color>0x141B32</color>
+                <infos>
+                    <ul>1.4SHY</ul>
+                    <ul>2.T3zs5</ul>
+                    <ul>3.CTepYX</ul>
+                    <ul>4.Swpxp2w</ul>
+                </infos>
+            </country>
+            <country id="C212" canClick="0">
+                <color>0x8BF622</color>
+                <infos>
+                    <ul>1.sTzB</ul>
+                    <ul>2.52nZZ</ul>
+                    <ul>3.6RA87R</ul>
+                    <ul>4.4MkWHkn</ul>
+                </infos>
+            </country>
+            <country id="C213" canClick="1">
+                <color>0xF1DD9F</color>
+                <infos>
+                    <ul>1.7B2K</ul>
+                    <ul>2.WHZNa</ul>
+                    <ul>3.nS2KZj</ul>
+                    <ul>4.ECwZRW8</ul>
+                </infos>
+            </country>
+            <country id="C214" canClick="0">
+                <color>0x3AD3C8</color>
+                <infos>
+                    <ul>1.z2Rj</ul>
+                    <ul>2.pYJ2D</ul>
+                    <ul>3.cKXPAH</ul>
+                    <ul>4.C2BHz3c</ul>
+                </infos>
+            </country>
+            <country id="C216" canClick="1">
+                <color>0xCAEAAC</color>
+                <infos>
+                    <ul>1.wGEn</ul>
+                    <ul>2.hRzdz</ul>
+                    <ul>3.cPt2Pp</ul>
+                    <ul>4.mi7jJiM</ul>
+                </infos>
+            </country>
+            <country id="C217" canClick="1">
+                <color>0x3595DD</color>
+                <infos>
+                    <ul>1.RFXE</ul>
+                    <ul>2.a6Fes</ul>
+                    <ul>3.XjARhx</ul>
+                    <ul>4.TTpSwy8</ul>
+                </infos>
+            </country>
+        </countryList>
+    </infoList>
+</data>
+
+
+
+
